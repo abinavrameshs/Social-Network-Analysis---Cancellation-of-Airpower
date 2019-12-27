@@ -1,2 +1,2 @@
-# Social-Network-Analysis---Cancellation-of-Airpower
-Social Network Analysis - Cancellation of Airpower
+# Social-Media-Analysis---Cancellation-of-Airpower
+Social Media Analysis - Cancellation of Airpower
