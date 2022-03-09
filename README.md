@@ -21,3 +21,4 @@ How did Apple handle a negative event and crisis (Here the cancellation of Airpo
 9. Recommendations
 
 Please refer to the document attached for more details
+ 
